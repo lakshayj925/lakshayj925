@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-I am a Software Enginner working in cyber security.
+I'm a Software Engineer working in Cybersecurity
 
 ## My Tech Stack
 
