@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+## About Me
+I am a Software Enginner working in cyber security
+## My Tech Stack
+### Backend
+Languages: Java, Python, Go, C++
+Frameworks: Spring Boot, Spring MVC, Flask, FastAPI, Connexion
+APIs: REST APIs, Microservices
+### Frontend
+Framework: Angular
+### Cloud & Infrastructure
+Cloud: AWS
 
 <!--
 **lakshayj925/lakshayj925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
